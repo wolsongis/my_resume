@@ -10,3 +10,5 @@ navigation:
     url: "projects"
     - title: Leadership
     url: "leadership"
+    - title: Awards
+    url: "awards"
