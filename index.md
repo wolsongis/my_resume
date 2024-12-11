@@ -36,7 +36,7 @@ Utilized Microsoft Excel to manage international symposium attendees travel itin
 <br>
 <br>
 ## Education 
-University of Florida, Gainesville — Natural Resource Conservation
+University of Florida, Gainesville — *Natural Resource Conservation*
 <br>
 Fall 2021 - Fall 2025
 <br>
@@ -44,7 +44,7 @@ Fall 2021 - Fall 2025
 Natural Resource Conservation (NRC) is an interdisciplinary major where ecology, field applications, sampling, GIS technology and natural resource policy is studied. As a senior, I have gained a comprehensive understanding of these subjects.
 <br>
 <br>
-Broward College, Coconut Creek — Associate of Arts - Honors
+Broward College, Coconut Creek — *Associate of Arts - Honors*
 <br>
 August 2019 - May 2021
 <br>
