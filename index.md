@@ -36,5 +36,8 @@ Utilized Microsoft Excel to manage international symposium attendees travel itin
 ## Projects
 <br>
 **Panthers and Wildlife Crossings** 
+<br>
+<br>
 Collaboratve project which examines the relationship between wildlife crossings, average daily traffic counts, and Florida panther deaths in the Florida Panther Focus area of southern Florida. Ultimately attempts to determine the effectiveness of wildlife crossings in preventing panther-vehicle collisions, as well as identify suitable locations for future construction of wildlife crossings.
+<br>
 [ArcGIS Online StoryMap](https://storymaps.arcgis.com/stories/14334dcd6def4cf79809cc1f2a910949)
