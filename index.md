@@ -2,6 +2,7 @@
 
 ## About
 Senior at the University of Florida
+<br>
 Natural Resource Conservation Major with a focus in Geographic Information Systems
 
 
@@ -9,7 +10,7 @@ Natural Resource Conservation Major with a focus in Geographic Information Syste
 email: wolson623@gmail.com
 
 ## Work Experience 
-Research Tutorial Aboard, Berlin, Germany
+**Research Tutorial Aboard, Berlin, Germany**
 <br>
 June 2023 - July 2023
 <br>
