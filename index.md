@@ -22,6 +22,9 @@ Selected by the University of Florida to assist the Technical University of Berl
 [Read more about the research](https://dcp.ufl.edu/news/geodesign-specialization-students-spend-summer-researching-churches-in-germany/)
 <br>
 <br>
+[CES Lunchtime Symposium](https://internationalcenter.ufl.edu/ces-lunchtime-symposium-summer-research-tutorial-abroad-rta-berlin)
+<br>
+<br>
 **University of Florida, Sanibel Symposium Student Assistant**
 <br>
 September 2022 - May 2023
@@ -29,6 +32,7 @@ September 2022 - May 2023
 <br>
 Utilized Microsoft Excel to manage international symposium attendees travel itineraries, verify funding arrangements, document speaking schedules, detail guest contact information, and simplify logistics. Communicated in email, telephone, and in-person format with professors, symposium attendees, and host location staff to facilitate a successful event. Used Microsoft publisher to design, from concept to publication, and subsequently distribute the Sanibel Symposium annual program.
 <br>
+[Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/)
 <br>
 <br>
 
