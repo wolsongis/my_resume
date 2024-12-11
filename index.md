@@ -13,7 +13,6 @@ email: wolson623@gmail.com
 <br>
 **Research Tutorial Aboard, Berlin, Germany**
 <br>
-<br>
 June 2023 - July 2023
 <br>
 <br>
@@ -24,7 +23,6 @@ Selected by the University of Florida to assist the Technical University of Berl
 <br>
 <br>
 **University of Florida, Sanibel Symposium Student Assistant**
-<br>
 <br>
 September 2022 - May 2023
 <br>
