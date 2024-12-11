@@ -1,9 +1,20 @@
-# Welcome to My Website
-Setup 
+# William Olson 
 
 ## About
-- Hosted on GitHub Pages.
-- Styled with Jekyll.
+Senior at the University of Florida
+Natural Resource Conservation Major with a focus in Geographic Information Systems
+
 
 ## Contact
 email: wolson623@gmail.com
+
+## Work Experience 
+Research Tutorial Aboard, Berlin, Germany
+June 2023 - July 2023
+Selected by the University of Florida to assist the Technical University of Berlin with a team research project focused on creating a visual decision making tool using ArcGIS in Germany. Project was concentrated on data collection and documentation and achieved the goal of the digitization of historic site data to support climate change mitigation measures.
+url: https://dcp.ufl.edu/news/geodesign-specialization-students-spend-summer-researching-churches-in-germany/
+
+
+## Projects 
+
+
