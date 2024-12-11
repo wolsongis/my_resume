@@ -85,5 +85,6 @@ Promoted alternative agricultural practices and methods combined with the financ
 ## Awards 
 <a id="awards"></a>
 **LaFontaine Scholarship Recipient**
+<br>
 Scholarship that is awarded to students within the School of Forest, Fisheries, and Geomatic Sciences at the University of Florida
 <br>
