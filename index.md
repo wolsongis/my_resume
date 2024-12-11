@@ -36,8 +36,24 @@ Utilized Microsoft Excel to manage international symposium attendees travel itin
 [Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/)
 <br>
 <br>
-
-
+## Education 
+<br>
+University of Florida, Gainesville — Natural Resource Conservation
+<br>
+Fall 2021 - Fall 2025
+<br>
+<br>
+Natural Resource Conservation (NRC) is an interdisciplinary major where ecology, field applications, sampling, GIS technology and natural resource policy is studied. As a senior, I have gained a comprehensive understanding of these subjects.
+<br>
+<br>
+Broward College, Coconut Creek — Associate of Arts - Honors
+<br>
+AUGUST 2019 - MAY 2021
+<br>
+<br>
+As a sophomore in high school, I applied and was accepted into an accelerated program for junior and senior year wherein I obtained my high school diploma and Associate’s degree simultaneously. Graduated with Honors. Received an Associate’s Degree with a focus in Business.
+<br>
+<br>
 ## Projects
 <br>
 **Panthers and Wildlife Crossings** 
