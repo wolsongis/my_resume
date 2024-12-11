@@ -48,7 +48,7 @@ Natural Resource Conservation (NRC) is an interdisciplinary major where ecology,
 <br>
 Broward College, Coconut Creek — Associate of Arts - Honors
 <br>
-AUGUST 2019 - MAY 2021
+August 2019 - May 2021
 <br>
 <br>
 As a sophomore in high school, I applied and was accepted into an accelerated program for junior and senior year wherein I obtained my high school diploma and Associate’s degree simultaneously. Graduated with Honors. Received an Associate’s Degree with a focus in Business.
@@ -63,3 +63,19 @@ Collaboratve project which examines the relationship between wildlife crossings,
 <br>
 <br>
 [ArcGIS Online StoryMap](https://storymaps.arcgis.com/stories/14334dcd6def4cf79809cc1f2a910949)
+<br>
+<br>
+## Leadership 
+<br>
+**Treasurer: Organic and Sustainable Agriculture Club, University of Florida**
+<br>
+Promoted alternative agricultural practices and methods combined with the financial duties of the Treasurer position
+<br>
+
+<br>
+## Awards 
+<br>
+**LaFontaine Scholarship Recipient**
+<br>
+Scholarship that is awarded to students within the School of Forest, Fisheries, and Geomatic Sciences at the University of Florida
+<br>
