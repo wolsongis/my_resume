@@ -10,7 +10,7 @@ Natural Resource Conservation Major with a focus in Geographic Information Syste
 email: wolson623@gmail.com
 
 ## Work Experience 
-
+<a id="work_experience"></a>
 **Research Tutorial Aboard, Berlin, Germany**
 <br>
 June 2023 - July 2023
@@ -41,6 +41,7 @@ Utilized Microsoft Excel to manage international symposium attendees travel itin
 
 
 ## Education 
+<a id="education"></a>
 University of Florida, Gainesville — *Natural Resource Conservation*
 <br>
 Fall 2021 - Fall 2025
@@ -60,6 +61,7 @@ As a sophomore in high school, I applied and was accepted into an accelerated pr
 
 
 ## Projects
+<a id="projects"></a>
 **Panthers and Wildlife Crossings** 
 <br>
 <br>
@@ -72,6 +74,7 @@ Collaboratve project which examines the relationship between wildlife crossings,
 
 
 ## Leadership 
+<a id="leadership"></a>
 **Treasurer: Organic and Sustainable Agriculture Club, University of Florida**
 <br>
 Promoted alternative agricultural practices and methods combined with the financial duties of the Treasurer position
@@ -80,6 +83,7 @@ Promoted alternative agricultural practices and methods combined with the financ
 
 
 ## Awards 
+<a id="awards"></a>
 **LaFontaine Scholarship Recipient**
 Scholarship that is awarded to students within the School of Forest, Fisheries, and Geomatic Sciences at the University of Florida
 <br>
