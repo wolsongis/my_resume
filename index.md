@@ -74,8 +74,12 @@ Collaboratve project which examines the relationship between wildlife crossings,
 **Solar Energy Site Analysis** 
 <br>
 <br>
+Utilized ArcGIS Pro to analyze geospatial data for identifying optimal sites for energy development. Conducted land use assessments, roadway proximity analysis, slope evaluation and sunshade analyses. Based on these parameters I developed a binary and a ranking suitability model to support solar energy planning and provide a reference for future solar planning projects. 
+<br>
+<br>
 [View the PDF](assests/SolarEnergySiteAnalysis.pdf)
-
+<br>
+<br>
 ## Leadership 
 <a id="leadership"></a>
 **Treasurer: Organic and Sustainable Agriculture Club, University of Florida**
