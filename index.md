@@ -71,7 +71,10 @@ Collaboratve project which examines the relationship between wildlife crossings,
 [ArcGIS StoryMap Link](https://storymaps.arcgis.com/stories/14334dcd6def4cf79809cc1f2a910949)
 <br>
 <br>
-
+**Solar Energy Site Analysis** 
+<br>
+<br>
+[View the PDF](assets/pdf/example.pdf)
 
 ## Leadership 
 <a id="leadership"></a>
