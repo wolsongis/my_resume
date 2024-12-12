@@ -74,7 +74,7 @@ Collaboratve project which examines the relationship between wildlife crossings,
 **Solar Energy Site Analysis** 
 <br>
 <br>
-[View the PDF](assets/solarenergyproj.pdf)
+[View the PDF](assests/solarenergyproj.pdf)
 
 ## Leadership 
 <a id="leadership"></a>
