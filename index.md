@@ -11,7 +11,7 @@ email: wolson623@gmail.com
 
 ## Work Experience 
 <a id="work_experience"></a>
-**Research Tutorial Aboard, Berlin, Germany**
+**Research Tutorial Abroad, Berlin, Germany**
 <br>
 June 2023 - July 2023
 <br>
@@ -65,7 +65,7 @@ As a sophomore in high school, I applied and was accepted into an accelerated pr
 **Panthers and Wildlife Crossings** 
 <br>
 <br>
-Collaboratve project which examines the relationship between wildlife crossings, average daily traffic counts, and Florida panther deaths in the Florida Panther Focus area of southern Florida. Ultimately attempts to determine the effectiveness of wildlife crossings in preventing panther-vehicle collisions, as well as identify suitable locations for future construction of wildlife crossings.
+Collaborative project which examines the relationship between wildlife crossings, average daily traffic counts, and Florida panther deaths in the Florida Panther Focus area of southern Florida. Ultimately attempts to determine the effectiveness of wildlife crossings in preventing panther-vehicle collisions, as well as identify suitable locations for future construction of wildlife crossings.
 <br>
 <br>
 [ArcGIS StoryMap Link](https://storymaps.arcgis.com/stories/14334dcd6def4cf79809cc1f2a910949)
