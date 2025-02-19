@@ -4,7 +4,8 @@
 Senior at the University of Florida
 <br>
 Natural Resource Conservation Major with a focus in Geographic Information Systems
-
+<a href="assets/WilliamOlsonResume.pdf" download>Download My Resume</a>
+<br>
 
 ## Contact
 email: wolson623@gmail.com
