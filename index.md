@@ -4,7 +4,8 @@
 Senior at the University of Florida
 <br>
 Natural Resource Conservation Major with a focus in Geographic Information Systems
-<a href="assets/WilliamOlsonResume.pdf" download>Download My Resume</a>
+<br>
+<a href="https://raw.githubusercontent.com/wolsongis/my_resume/main/assests/WilliamOlsonResume.pdf" download>Download My Resume</a>
 <br>
 
 ## Contact
